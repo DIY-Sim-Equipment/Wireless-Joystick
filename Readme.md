@@ -14,7 +14,7 @@
 
 # Kablolama
 
-![Kablolama](nrf24.jpg)
+![Kablolama](Wiring.jpg)
 
 **DIY SIM EQUIPMENT**
 
